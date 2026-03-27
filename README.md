@@ -60,3 +60,4 @@ Available commands:
 
   problems [<svcgroup|hstgroup> <state>]         Display all services in a non-OK state
 ```
+Created by Jason Scott Heise
